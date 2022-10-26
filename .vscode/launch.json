@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch CMYKtoRGB",
+            "request": "launch",
+            "mainClass": "CMYKtoRGB",
+            "projectName": "JavaApp_841993e6"
+        },
+        {
+            "type": "java",
+            "name": "Launch GreatCircle",
+            "request": "launch",
+            "mainClass": "GreatCircle",
+            "projectName": "JavaApp_841993e6"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloGoodbye",
+            "request": "launch",
+            "mainClass": "HelloGoodbye",
+            "projectName": "JavaApp_841993e6"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "JavaApp_841993e6"
+        },
+        {
+            "type": "java",
+            "name": "Launch RightTriangle",
+            "request": "launch",
+            "mainClass": "RightTriangle",
+            "projectName": "JavaApp_841993e6"
+        }
+    ]
+}
